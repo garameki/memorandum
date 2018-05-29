@@ -13,6 +13,11 @@ SUMMARY
 3.git commit -m "COMMENT"  
 4.git checkout master  
 5.git merge test  
-After merge has been finished.  
+After merge has been finished...  
 6.git branch --merged  
-7.git branch -d test  
+7.git branch -d test
+After removing has been completed...  
+8.git branch -r
+9.git push --delete origin test
+10.git show-branch
+master is remained.OK
