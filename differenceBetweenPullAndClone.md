@@ -28,8 +28,8 @@ SUMMARY
 2.git clone https://<span></span>github.com/garameki/WebGL_Test.git  
 3.cd WegGL_Test  
 4.git show-branch   
-5.say 'Oh,no.'
-6.git branch -r
-7.git checkout origin/sunlight2
-8.git checkout -b saturn
+5.say 'Oh,no.'  
+6.git branch -r  
+7.git checkout origin/sunlight2  
+8.git checkout -b saturn  
 
