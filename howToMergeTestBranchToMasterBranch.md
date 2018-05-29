@@ -10,6 +10,6 @@ SUMMARY
   
 1.git checkout test  
 2.git add *  
-3.git commit -m "comment"  
+3.git commit -m "COMMENT"  
 4.git checkout master  
 5.git merge test  
