@@ -13,3 +13,6 @@ SUMMARY
 3.git commit -m "COMMENT"  
 4.git checkout master  
 5.git merge test  
+After merge has been finished.  
+6.git branch --merged  
+7.git branch -d test  
