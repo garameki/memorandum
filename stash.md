@@ -5,9 +5,11 @@ you must use 'git stash' command before using 'git checkout' command.
 Otherwise you might bring files repaired and not commited to the destination commit.  
   
 ---------------------------------------------------------    
+```  
 git stash  
 git show-branch  
 git checkout \<name>   
 --do something(copy and so on)--  
 git checkout \<name>  
 git stash pop --index  
+```  
