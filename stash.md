@@ -1,11 +1,13 @@
 STASH  
 =========  
-when you need old file to use,you can use below
------------------------------------------------  
+when you will have to reference old file,  
+you must use 'git stash' command before using 'git checkout' command.
+Otherwise you might bring files repaired and not commited to the destination commit.  
   
+---------------------------------------------------------    
 git stash  
 git show-branch  
-git checkout @{\<reference-name>}  
+git checkout \<name>   
 --do something(copy and so on)--  
-git checkout \<head-commit-name>  
+git checkout \<name>  
 git stash pop --index  
