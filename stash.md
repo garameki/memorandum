@@ -8,8 +8,8 @@ Otherwise you might bring files repaired and not commited to the destination com
 ```  
 git stash  
 git show-branch  
-git checkout \<name>   
+git checkout <name>   
 --do something(copy and so on)--  
-git checkout \<name>  
+git checkout <name>  
 git stash pop --index  
 ```  
