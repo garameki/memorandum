@@ -11,5 +11,6 @@ git show-branch
 git checkout <name>   
 --do something(copy and so on)--  
 git checkout <name>  
-git stash pop --index  
+git stash list
+`git stash apply stash@{NUMBER}` or `git stash pop --index`  
 ```  
