@@ -28,7 +28,7 @@ repair   1---------3--4
   
 Log  
 ----
-```git checkout repair```
+```git checkout repair```  
 ```git log```
 
 ```
